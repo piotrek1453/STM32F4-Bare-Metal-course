@@ -1,0 +1,10 @@
+D:/STM32/bajery/kursy/projekty/chip_headers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	2
+../Src/uart.c:27:6:uart2_tx_init	1
+../Src/uart.c:54:6:uart2_rxtx_init	1
+../Src/uart.c:90:6:uart2_rx_interrupt_init	1
+../Src/uart.c:130:6:uart2_read	2
+../Src/uart.c:138:6:uart2_write	2
+../Src/uart.c:148:5:__io_putchar	1
+../Src/uart.c:153:6:dma1_stream6_init	2
+../Src/uart.c:186:17:compute_uart_bd	1
+../Src/uart.c:190:13:uart_set_baudrate	1
